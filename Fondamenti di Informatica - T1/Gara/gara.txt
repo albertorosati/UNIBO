@@ -1,0 +1,3 @@
+Federico Chesani;CUBO A.P.S.;controlloStart controlloA controlloB controlloC controlloEnd
+Paola Mello;CUBO A.P.S.;controlloStart controlloA controlloB controlloC controlloEnd
+Daniela Loreti;Borgo Cicli A.S.D.;controlloStart controlloA controlloB controlloEnd
