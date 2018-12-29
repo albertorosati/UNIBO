@@ -1,0 +1,9 @@
+chesani 3 67.30
+mello 1 5.60
+giannelli 3 45.80
+chesani 5
+chesani 4 110.00
+chesani 4 98.00
+mello 1 9.80
+montali 3 56.60
+montali 3 57.80
