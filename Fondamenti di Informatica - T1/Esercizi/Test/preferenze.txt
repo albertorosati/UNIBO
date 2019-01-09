@@ -1,0 +1,11 @@
+000123 Ingegneria
+000234 Ingegneria
+000345 Ingegenria
+000456 Ingegneria
+000123 Medicina
+000234 Lettere
+000123 Lettere
+000345 Agraria
+000567 Ingegneria
+000678 Ingegneria
+000789 Ingegneria

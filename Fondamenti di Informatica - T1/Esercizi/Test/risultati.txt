@@ -1,0 +1,8 @@
+16/02/2017 000123 logica 15 matematica 13 fisica 15 comprensione 9@16/02/2017 000234 logica
+13 matematica 12 fisica 15 comprensione 11@16/02/2017 000345 logica 5 matematica 4 fisica 3
+comprensione 8@16/02/2017 000456 logica 6 matematica 7 fisica 5 comprensione 12@18/02/2017
+000123 logica 15 matematica 14 fisica 15 comprensione 14@18/02/2017 000234 logica 13
+matematica 12 fisica 15 comprensione 11@26/03/2017 000123 logica 15 matematica 15 fisica 15
+comprensione 15@26/03/2017 000345 logica 2 matematica 1 fisica 1 comprensione 10@26/03/2017
+000567 logica 12 matematica 13 fisica 12 comprensione 9@26/03/2017 000678 logica 7 matematica
+7 fisica 7 comprensione 7@26/03/2017 000789 logica 15 matematica 13 fisica 15 comprensione 9
